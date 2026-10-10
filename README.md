@@ -80,7 +80,7 @@ Impact of Evolutionary Black-Box Adversarial Attacks on Machine Learning Accurac
 Scientific Reports, [year, DOI once available].
 ```
 
-Archived version of this code: [Zenodo DOI].
+Archived version of this code: [https://doi.org/10.5281/zenodo.23289378].
 
 ## License
 
