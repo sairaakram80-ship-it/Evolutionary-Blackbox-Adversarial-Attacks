@@ -1,0 +1,6 @@
+# Notebooks were run in Google Colab (GPU runtime) with the default
+# Colab TensorFlow/NumPy installation of that time. Each notebook installs what it
+# needs in its first cells; the packages below are the ones it installs.
+kaggle                          # notebooks 2, 3, 4 (dataset download)
+tf-keras-vis                    # notebook 3
+adversarial-robustness-toolbox  # notebook 4

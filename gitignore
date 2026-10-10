@@ -1,0 +1,16 @@
+# Dataset (download separately, see README)
+dataset22/
+GTSRB_dataset/
+Train/
+Test/
+*.zip
+
+# Cached arrays created by notebook 1 (the trained model training/TSR.keras is kept)
+training/data.npy
+training/target.npy
+
+# Never commit credentials
+kaggle.json
+
+.ipynb_checkpoints/
+__pycache__/
